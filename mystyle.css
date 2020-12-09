@@ -29,14 +29,15 @@
 }
 
 .text1 {
-	font-family: Helvetica, Tahoma, Arial;
+	color: #2D6187;
+	font-family: Tahoma, Arial;
 	text-align: center;
 }
 
 .text2 {
 	background-color: #023459;
 	color: white;
-	font-family: "Microsoft YaHei",Tahoma, Arial;
+	font-family: Tahoma, Arial;
 	text-align: center;
 	margin:auto;
 	padding: 0.8%;
@@ -51,14 +52,31 @@
 	margin:auto;
 	padding: 0.8%;
 	width: 50%
+}
 
+.text4 {
+	color: #D7385E;
+	text-decoration: underline;
+	text-align: center;
 }
 
 .img1 {
 	margin: 3px 3px 3px 3px;
 	height: 300px;
 	width: auto;
+}
 
+#pic a {
+	background: url("002.jpg");
+	display: block;
+	font-size: 0;
+	height: 450px;
+	width: 800px;
+	margin: auto;
+}
+
+#pic a:hover {
+	background: url("001.jpg");
 }
 
 
