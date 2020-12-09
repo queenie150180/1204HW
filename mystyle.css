@@ -1,0 +1,65 @@
+.header1 {
+	background-color: #BE7052;
+	color: white;
+	font-weight: font;
+	border-style: dashed;
+	padding: 30px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.header2 {
+	background-color: #582A20;
+	color: white;
+	border-style: ridge;
+	padding: 1%;
+	text-align: center;
+	max-width: 50%;
+	margin:auto;
+}
+
+.header3 {
+	background-color: #F1DED1;
+	color: #23345C;
+	padding: 0.8%;
+	text-align: center;
+	margin:auto;
+	width: 90%;
+}
+
+.text1 {
+	font-family: Helvetica, Tahoma, Arial;
+	text-align: center;
+}
+
+.text2 {
+	background-color: #023459;
+	color: white;
+	font-family: "Microsoft YaHei",Tahoma, Arial;
+	text-align: center;
+	margin:auto;
+	padding: 0.8%;
+	width: 40%
+}
+
+.text3 {
+	background-color: #023459;
+	color: white;
+	font-family: Tahoma, Arial;
+	text-align: center;
+	margin:auto;
+	padding: 0.8%;
+	width: 50%
+
+}
+
+.img1 {
+	margin: 3px 3px 3px 3px;
+	height: 300px;
+	width: auto;
+
+}
+
+
+
